@@ -7,6 +7,12 @@
     <a href="https://www.linkedin.com/in/maksym-mishak-8012a128b/">
         <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn">
     </a>
+    <a href="https://t.me/explosive_band">
+        <img src="https://img.icons8.com/?size=100&id=EWzVSK2hyV9H&format=png&color=000000" alt="Telegram">
+    </a>
+    <a href="https://www.upwork.com/freelancers/~01ad05b16fc311ce76?mp_source=share">
+        <img src="https://img.icons8.com/?size=100&id=fF39hkEhFlir&format=png&color=000000" alt="Upwork">
+    </a>
 </div>
 
 <!--
