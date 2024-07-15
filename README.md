@@ -1,6 +1,6 @@
 ## Hi there 👋, I`m Max
-<div id="header" style="margin: 0 autho">
-
+<div id="header" text-align: center>
+    
 </div>
 
 <!--
