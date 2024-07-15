@@ -3,6 +3,11 @@
     <p>Backend Software Engineer 🤖</p>
     <p>from Ukraine 🇺🇦</p>
 </div>
+<div id="social" align="center">
+    <a href="https://www.linkedin.com/in/maksym-mishak-8012a128b/">
+        <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn">
+    </a>
+</div>
 
 <!--
 **Expband/Expband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
