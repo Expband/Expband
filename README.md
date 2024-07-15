@@ -34,7 +34,6 @@
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/>
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="48" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
-    <img width="48" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
     <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fast api" title="fast api"/>
     <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="heroku" title="heroku"/>
     <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="sqlalchemy" title="sqlalchemy"/>
@@ -50,6 +49,10 @@
           
 </div>
 
+<h2><b>Stats: </b></h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Expband&theme=apprentice) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Expband&theme=apprentice) 
 <!--
 **Expband/Expband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
