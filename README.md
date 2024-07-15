@@ -51,9 +51,7 @@
 
 <h2><b>Stats: </b></h2>
 
-<div id="stats" align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Expband&theme=apprentice) 
-</div>
 
 <!--
 **Expband/Expband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
