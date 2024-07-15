@@ -1,5 +1,8 @@
-<h2 align="center">Hi there 👋, I’m Max</h2>
-    
+<div id="header" align="center">
+    <h2>Hi there 👋, I’m Max</h2>
+    <h1>Backend Software Engineer 🤖</h1>
+    <h1>from Ukraine 🇺🇦</h1>
+</div>
 
 <!--
 **Expband/Expband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
