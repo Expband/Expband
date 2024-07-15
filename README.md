@@ -18,7 +18,7 @@
     </a>
 </div>
 
-###About me:
+<h2><b>About me:</b></h2>
 - I`m currently working on freelance 🌐
 - You can know about my experience in my [CV](./resume/resume-eng.pdf)
 - Languages: 🇺🇦- `Native`, 🇺🇸- `Upper-Intermediate`, 🇵🇱- `Intermediate`, 🇷🇺- `Fluent`
