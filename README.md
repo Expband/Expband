@@ -52,7 +52,7 @@
 <h2><b>Stats: </b></h2>
 
 <div id="stats" align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Expband&theme=apprentice) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Expband&theme=apprentice) 
 </div>
 
 <!--
