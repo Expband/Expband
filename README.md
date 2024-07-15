@@ -46,12 +46,20 @@
     <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git" title="git"/>
     <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" title="github"/>
     <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" title="gitlab"/>
-          
 </div>
 
 <h2><b>Stats: </b></h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Expband&theme=apprentice) 
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Expband&theme=apprentice" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Expband&theme=apprentice" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
 
 <!--
 **Expband/Expband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
