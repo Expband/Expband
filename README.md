@@ -52,7 +52,6 @@
 <h2><b>Stats: </b></h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Expband&theme=apprentice) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Expband&theme=apprentice) 
 <!--
 **Expband/Expband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
